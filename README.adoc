@@ -1,0 +1,3 @@
+= junit5-poc
+
+A simple junit5 gradle+java project
